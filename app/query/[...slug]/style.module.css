@@ -1,0 +1,15 @@
+
+#play{
+    rotate: -90deg;
+    clip-path: polygon(0 0, 100% 0, 50% 100%);
+}
+
+
+li:hover  .preview{
+    visibility: visible;
+    transition: all 1s ease;
+}
+
+.preview:hover{
+
+}
